@@ -1,0 +1,16 @@
+.navbar {
+    width: 100px;
+    flex-direction: column;
+    justify-content: center;
+    font-size: large;
+}
+
+a {
+    border: none;
+    
+}
+
+.current {
+    font-size: 1000;
+    background-color: aquamarine;
+}
